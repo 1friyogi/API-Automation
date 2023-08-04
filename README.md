@@ -2,7 +2,7 @@
 
 #here is the step to run this project
 1. please install the Katalon Studio
-2. open katalon studi
+2. open katalon studio
 3. you will see the test cases
 4. select one of test case and click this button "Run"
 
